@@ -1,0 +1,8 @@
+
+[	java:S107%"AConstructor has 8 parameters, which is greater than 7 authorized.(≥’Ω´˚ˇˇˇˇ
+X
+java:S11724";Remove these unused method parameters "oldName", "newName".(´ËÓˇ8Îì‡¿Ø0
+H
+java:S11685"+Return an empty collection instead of null.(•πÔç8Ìì‡¿Ø0
+T
+java:S1155Z">Use isEmpty() to check whether the collection is empty or not.(ËÌ…‘
